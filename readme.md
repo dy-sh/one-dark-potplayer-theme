@@ -1,4 +1,5 @@
-Atom One Dark inspired theme for PotPlayer.  
+Atom One Dark inspired theme for PotPlayer. 
+Based on the Simplify Sunset theme.   
 
 ## OneDark
 
